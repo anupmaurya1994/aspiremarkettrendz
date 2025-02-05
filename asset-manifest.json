@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.46d7907f.css",
-    "main.js": "/static/js/main.fe5d256b.js",
-    "static/js/206.528b7433.chunk.js": "/static/js/206.528b7433.chunk.js",
+    "main.js": "/static/js/main.6be2a6d3.js",
+    "static/js/206.d8d264eb.chunk.js": "/static/js/206.d8d264eb.chunk.js",
     "static/media/PTF55F.ttf": "/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
     "static/media/market.jpg": "/static/media/market.fc408fd9bb892b58dd96.jpg",
     "static/media/stocks.jpg": "/static/media/stocks.ee8632ca6d829e604035.jpg",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.46d7907f.css",
-    "static/js/main.fe5d256b.js"
+    "static/js/main.6be2a6d3.js"
   ]
 }
