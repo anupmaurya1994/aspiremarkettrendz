@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.46d7907f.css",
-    "main.js": "/static/js/main.6be2a6d3.js",
+    "main.css": "/static/css/main.890ce1b7.css",
+    "main.js": "/static/js/main.216eacf4.js",
     "static/js/206.d8d264eb.chunk.js": "/static/js/206.d8d264eb.chunk.js",
     "static/media/PTF55F.ttf": "/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
     "static/media/market.jpg": "/static/media/market.fc408fd9bb892b58dd96.jpg",
     "static/media/stocks.jpg": "/static/media/stocks.ee8632ca6d829e604035.jpg",
     "static/media/amazon.png": "/static/media/amazon.da84a489ba8b1224f211.png",
     "static/media/card-post-footer.png": "/static/media/card-post-footer.390cc5dccef30ce50eaf.png",
+    "static/media/New-logo-light.png": "/static/media/New-logo-light.fbd3d0e23debd6cdc263.png",
     "static/media/imageone.png": "/static/media/imageone.dbe1650e0c92c7147894.png",
     "static/media/imagetwo.png": "/static/media/imagetwo.d8eada3c2f6bb6c0afd8.png",
     "static/media/logo-small-2.png": "/static/media/logo-small-2.136ed584b67eb9dad942.png",
@@ -19,7 +20,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.46d7907f.css",
-    "static/js/main.6be2a6d3.js"
+    "static/css/main.890ce1b7.css",
+    "static/js/main.216eacf4.js"
   ]
 }
