@@ -1,0 +1,33 @@
+# Site settings
+title: Aspire Market Trendz
+description: >-
+  Stay updated with the latest market trends, insights, and analysis.
+baseurl: "/aspiremarkettrendz/" # The subpath of your site, e.g., /blog/, leave empty if deploying to the root
+url: "https://anupmaurya1994.github.io" # The base hostname & protocol for your site
+
+# GitHub Pages metadata
+github: [metadata]
+
+# Build settings
+theme: minima # Change this if using a custom theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude unnecessary files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# Permalinks
+permalink: pretty
