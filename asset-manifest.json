@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aspiremarkettrendz/static/css/main.9420cb5a.css",
-    "main.js": "/aspiremarkettrendz/static/js/main.92e14177.js",
+    "main.js": "/aspiremarkettrendz/static/js/main.c1947e53.js",
     "static/js/206.970f3e3b.chunk.js": "/aspiremarkettrendz/static/js/206.970f3e3b.chunk.js",
     "static/media/PTF55F.ttf": "/aspiremarkettrendz/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
     "static/media/market.jpg": "/aspiremarkettrendz/static/media/market.fc408fd9bb892b58dd96.jpg",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.9420cb5a.css",
-    "static/js/main.92e14177.js"
+    "static/js/main.c1947e53.js"
   ]
 }
