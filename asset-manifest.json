@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.890ce1b7.css",
-    "main.js": "/static/js/main.4a7aaf0e.js",
-    "static/js/206.970f3e3b.chunk.js": "/static/js/206.970f3e3b.chunk.js",
-    "static/media/PTF55F.ttf": "/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
-    "static/media/market.jpg": "/static/media/market.fc408fd9bb892b58dd96.jpg",
-    "static/media/stocks.jpg": "/static/media/stocks.ee8632ca6d829e604035.jpg",
-    "static/media/amazon.png": "/static/media/amazon.da84a489ba8b1224f211.png",
-    "static/media/card-post-footer.png": "/static/media/card-post-footer.390cc5dccef30ce50eaf.png",
-    "static/media/New-logo-light.png": "/static/media/New-logo-light.fbd3d0e23debd6cdc263.png",
-    "static/media/imageone.png": "/static/media/imageone.dbe1650e0c92c7147894.png",
-    "static/media/imagetwo.png": "/static/media/imagetwo.d8eada3c2f6bb6c0afd8.png",
-    "static/media/logo-small-2.png": "/static/media/logo-small-2.136ed584b67eb9dad942.png",
-    "static/media/new-d-logo-removebg-preview.png": "/static/media/new-d-logo-removebg-preview.b417dbea63e8ffb0ad94.png",
-    "static/media/new-d-logo.png": "/static/media/new-d-logo.bf4d76b364501e38a28e.png",
-    "static/media/new-l-logo.png": "/static/media/new-l-logo.e22e7f0f80a103d8d2cd.png",
-    "static/media/black-logo-sm-2.png": "/static/media/black-logo-sm-2.2b746481de2311fed3c3.png",
-    "static/media/white-logo-sm-2.png": "/static/media/white-logo-sm-2.22f8fc649d65e153bca4.png",
-    "index.html": "/index.html"
+    "main.css": "/aspiremarkettrendz/static/css/main.9420cb5a.css",
+    "main.js": "/aspiremarkettrendz/static/js/main.856d9066.js",
+    "static/js/206.970f3e3b.chunk.js": "/aspiremarkettrendz/static/js/206.970f3e3b.chunk.js",
+    "static/media/PTF55F.ttf": "/aspiremarkettrendz/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
+    "static/media/market.jpg": "/aspiremarkettrendz/static/media/market.fc408fd9bb892b58dd96.jpg",
+    "static/media/stocks.jpg": "/aspiremarkettrendz/static/media/stocks.ee8632ca6d829e604035.jpg",
+    "static/media/amazon.png": "/aspiremarkettrendz/static/media/amazon.da84a489ba8b1224f211.png",
+    "static/media/card-post-footer.png": "/aspiremarkettrendz/static/media/card-post-footer.390cc5dccef30ce50eaf.png",
+    "static/media/New-logo-light.png": "/aspiremarkettrendz/static/media/New-logo-light.fbd3d0e23debd6cdc263.png",
+    "static/media/imageone.png": "/aspiremarkettrendz/static/media/imageone.dbe1650e0c92c7147894.png",
+    "static/media/imagetwo.png": "/aspiremarkettrendz/static/media/imagetwo.d8eada3c2f6bb6c0afd8.png",
+    "static/media/logo-small-2.png": "/aspiremarkettrendz/static/media/logo-small-2.136ed584b67eb9dad942.png",
+    "static/media/new-d-logo-removebg-preview.png": "/aspiremarkettrendz/static/media/new-d-logo-removebg-preview.b417dbea63e8ffb0ad94.png",
+    "static/media/new-d-logo.png": "/aspiremarkettrendz/static/media/new-d-logo.bf4d76b364501e38a28e.png",
+    "static/media/new-l-logo.png": "/aspiremarkettrendz/static/media/new-l-logo.e22e7f0f80a103d8d2cd.png",
+    "static/media/black-logo-sm-2.png": "/aspiremarkettrendz/static/media/black-logo-sm-2.2b746481de2311fed3c3.png",
+    "static/media/white-logo-sm-2.png": "/aspiremarkettrendz/static/media/white-logo-sm-2.22f8fc649d65e153bca4.png",
+    "index.html": "/aspiremarkettrendz/index.html"
   },
   "entrypoints": [
-    "static/css/main.890ce1b7.css",
-    "static/js/main.4a7aaf0e.js"
+    "static/css/main.9420cb5a.css",
+    "static/js/main.856d9066.js"
   ]
 }
