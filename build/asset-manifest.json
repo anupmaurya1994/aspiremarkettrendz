@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.890ce1b7.css",
-    "main.js": "/static/js/main.014a54e4.js",
-    "static/js/206.970f3e3b.chunk.js": "/static/js/206.970f3e3b.chunk.js",
+    "main.css": "/static/css/main.fd533ab8.css",
+    "main.js": "/static/js/main.3650965a.js",
+    "static/js/453.66cae25c.chunk.js": "/static/js/453.66cae25c.chunk.js",
     "static/media/PTF55F.ttf": "/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
     "static/media/market.jpg": "/static/media/market.fc408fd9bb892b58dd96.jpg",
     "static/media/stocks.jpg": "/static/media/stocks.ee8632ca6d829e604035.jpg",
@@ -17,10 +17,13 @@
     "static/media/new-l-logo.png": "/static/media/new-l-logo.e22e7f0f80a103d8d2cd.png",
     "static/media/black-logo-sm-2.png": "/static/media/black-logo-sm-2.2b746481de2311fed3c3.png",
     "static/media/white-logo-sm-2.png": "/static/media/white-logo-sm-2.22f8fc649d65e153bca4.png",
-    "index.html": "/index.html"
+    "index.html": "/index.html",
+    "main.fd533ab8.css.map": "/static/css/main.fd533ab8.css.map",
+    "main.3650965a.js.map": "/static/js/main.3650965a.js.map",
+    "453.66cae25c.chunk.js.map": "/static/js/453.66cae25c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.890ce1b7.css",
-    "static/js/main.014a54e4.js"
+    "static/css/main.fd533ab8.css",
+    "static/js/main.3650965a.js"
   ]
 }
