@@ -1,6 +1,6 @@
 {
   "name": "aspiremarkettrendz",
-  "homepage": "https://aspiremarkettrendz.com",
+  "homepage": "https://github.com/anupmaurya1994/aspiremarkettrendz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,8 +37,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages-deploy -- 'A custom commit message'"
+"predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

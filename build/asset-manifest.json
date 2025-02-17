@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd533ab8.css",
-    "main.js": "/static/js/main.3650965a.js",
-    "static/js/453.66cae25c.chunk.js": "/static/js/453.66cae25c.chunk.js",
-    "static/media/PTF55F.ttf": "/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
-    "static/media/market.jpg": "/static/media/market.fc408fd9bb892b58dd96.jpg",
-    "static/media/stocks.jpg": "/static/media/stocks.ee8632ca6d829e604035.jpg",
-    "static/media/amazon.png": "/static/media/amazon.da84a489ba8b1224f211.png",
-    "static/media/card-post-footer.png": "/static/media/card-post-footer.390cc5dccef30ce50eaf.png",
-    "static/media/New-logo-light.png": "/static/media/New-logo-light.fbd3d0e23debd6cdc263.png",
-    "static/media/imageone.png": "/static/media/imageone.dbe1650e0c92c7147894.png",
-    "static/media/imagetwo.png": "/static/media/imagetwo.d8eada3c2f6bb6c0afd8.png",
-    "static/media/logo-small-2.png": "/static/media/logo-small-2.136ed584b67eb9dad942.png",
-    "static/media/new-d-logo-removebg-preview.png": "/static/media/new-d-logo-removebg-preview.b417dbea63e8ffb0ad94.png",
-    "static/media/new-d-logo.png": "/static/media/new-d-logo.bf4d76b364501e38a28e.png",
-    "static/media/new-l-logo.png": "/static/media/new-l-logo.e22e7f0f80a103d8d2cd.png",
-    "static/media/black-logo-sm-2.png": "/static/media/black-logo-sm-2.2b746481de2311fed3c3.png",
-    "static/media/white-logo-sm-2.png": "/static/media/white-logo-sm-2.22f8fc649d65e153bca4.png",
-    "index.html": "/index.html",
-    "main.fd533ab8.css.map": "/static/css/main.fd533ab8.css.map",
-    "main.3650965a.js.map": "/static/js/main.3650965a.js.map",
-    "453.66cae25c.chunk.js.map": "/static/js/453.66cae25c.chunk.js.map"
+    "main.css": "/anupmaurya1994/aspiremarkettrendz/static/css/main.ad39feab.css",
+    "main.js": "/anupmaurya1994/aspiremarkettrendz/static/js/main.9ccf4c78.js",
+    "static/js/453.66cae25c.chunk.js": "/anupmaurya1994/aspiremarkettrendz/static/js/453.66cae25c.chunk.js",
+    "static/media/PTF55F.ttf": "/anupmaurya1994/aspiremarkettrendz/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
+    "static/media/market.jpg": "/anupmaurya1994/aspiremarkettrendz/static/media/market.fc408fd9bb892b58dd96.jpg",
+    "static/media/stocks.jpg": "/anupmaurya1994/aspiremarkettrendz/static/media/stocks.ee8632ca6d829e604035.jpg",
+    "static/media/amazon.png": "/anupmaurya1994/aspiremarkettrendz/static/media/amazon.da84a489ba8b1224f211.png",
+    "static/media/card-post-footer.png": "/anupmaurya1994/aspiremarkettrendz/static/media/card-post-footer.390cc5dccef30ce50eaf.png",
+    "static/media/New-logo-light.png": "/anupmaurya1994/aspiremarkettrendz/static/media/New-logo-light.fbd3d0e23debd6cdc263.png",
+    "static/media/imageone.png": "/anupmaurya1994/aspiremarkettrendz/static/media/imageone.dbe1650e0c92c7147894.png",
+    "static/media/imagetwo.png": "/anupmaurya1994/aspiremarkettrendz/static/media/imagetwo.d8eada3c2f6bb6c0afd8.png",
+    "static/media/logo-small-2.png": "/anupmaurya1994/aspiremarkettrendz/static/media/logo-small-2.136ed584b67eb9dad942.png",
+    "static/media/new-d-logo-removebg-preview.png": "/anupmaurya1994/aspiremarkettrendz/static/media/new-d-logo-removebg-preview.b417dbea63e8ffb0ad94.png",
+    "static/media/new-d-logo.png": "/anupmaurya1994/aspiremarkettrendz/static/media/new-d-logo.bf4d76b364501e38a28e.png",
+    "static/media/new-l-logo.png": "/anupmaurya1994/aspiremarkettrendz/static/media/new-l-logo.e22e7f0f80a103d8d2cd.png",
+    "static/media/black-logo-sm-2.png": "/anupmaurya1994/aspiremarkettrendz/static/media/black-logo-sm-2.2b746481de2311fed3c3.png",
+    "static/media/white-logo-sm-2.png": "/anupmaurya1994/aspiremarkettrendz/static/media/white-logo-sm-2.22f8fc649d65e153bca4.png",
+    "index.html": "/anupmaurya1994/aspiremarkettrendz/index.html",
+    "main.ad39feab.css.map": "/anupmaurya1994/aspiremarkettrendz/static/css/main.ad39feab.css.map",
+    "main.9ccf4c78.js.map": "/anupmaurya1994/aspiremarkettrendz/static/js/main.9ccf4c78.js.map",
+    "453.66cae25c.chunk.js.map": "/anupmaurya1994/aspiremarkettrendz/static/js/453.66cae25c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd533ab8.css",
-    "static/js/main.3650965a.js"
+    "static/css/main.ad39feab.css",
+    "static/js/main.9ccf4c78.js"
   ]
 }
