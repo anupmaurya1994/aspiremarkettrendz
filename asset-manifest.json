@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.890ce1b7.css",
-    "main.js": "/static/js/main.73a6d885.js",
+    "main.js": "/static/js/main.864d80e3.js",
     "static/js/206.d8d264eb.chunk.js": "/static/js/206.d8d264eb.chunk.js",
     "static/media/PTF55F.ttf": "/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
     "static/media/market.jpg": "/static/media/market.fc408fd9bb892b58dd96.jpg",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.890ce1b7.css",
-    "static/js/main.73a6d885.js"
+    "static/js/main.864d80e3.js"
   ]
 }
