@@ -1,0 +1,11 @@
+export const SET_THEME_MODE = 'SET_THEME_MODE';
+export const SET_NEWS_DATA = 'SET_NEWS_DATA';
+export const SET_STOCK_DATA = 'SET_STOCK_DATA';
+export const SET_INVESTING_DATA = 'SET_INVESTING_DATA';
+export const SET_MANUAL_NEWS_DATA = 'SET_MANUAL_NEWS_DATA';
+export const GET_LATEST_ARTICLES_DATA = 'GET_LATEST_ARTICLES_DATA';
+export const GET_FEED_DATA = 'GET_FEED_DATA';
+export const Market_Watch_Main = 'Market_Watch_Main';
+export const Market_Watch_Latest = 'Market_Watch_Latest';
+export const SET_SEARCH_VALUE = 'SET_SEARCH_VALUE';
+export const SET_ADD_NEWS_MANUAL = 'SET_ADD_NEWS_MANUAL';
